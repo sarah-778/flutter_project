@@ -25,7 +25,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
           children: [
             buildPage(
               image: 'assets/onboard1.png',
-              title: 'Welcome to My App',
+              title: 'Welcome to RentSmart UG App',
               description: 'Easily manage your tasks anywhere, anytime.',
             ),
             buildPage(

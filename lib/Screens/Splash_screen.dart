@@ -33,7 +33,7 @@ children: [
 Image.asset('assets/logo.png', height: 100),
 SizedBox(height: 20),
 Text(
-"My Awesome App",
+"My Awesome RentSmart UG App",
 style: TextStyle(
 color: Colors.white,
 fontSize: 24,
